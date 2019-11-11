@@ -11,7 +11,7 @@
         <f7-block>
           <p>Series de 5 repeticiones</p>
           
-          <img src="../../assets/images/fuerzaEspalda.jpg" width="200px">
+          <img src="../../assets/images/espalda01.png" width="200px">
         </f7-block>
       </f7-tab>
       <f7-tab id="tab-2" class="page-content">

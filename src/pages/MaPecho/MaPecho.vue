@@ -11,7 +11,7 @@
         <f7-block>
           <center>
             <p>Series de 5 repeticiones</p>
-            
+
             <img src="../../assets/images/pecho01.png" width="200px">
 
             <p>Series de 5 repeticiones</p>

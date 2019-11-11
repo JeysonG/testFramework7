@@ -11,21 +11,21 @@
         <f7-block>
           <p>Series de 5 repeticiones</p>
           
-          <img src="../../assets/images/fuerzaEspalda.jpg" width="200px">
+          <img src="../../assets/images/bicep06.png" width="200px">
         </f7-block>
       </f7-tab>
       <f7-tab id="tab-2" class="page-content">
         <f7-block>
           <p>Series de 10 repeticiones lentas</p>
           
-          <img src="../../assets/images/espalda02.png" width="200px">
+          <img src="../../assets/images/bicep07.png" width="200px">
         </f7-block>
       </f7-tab>
       <f7-tab id="tab-3" class="page-content">
         <f7-block>
           <p>Series de 15 repeticiones explosivas</p>
           
-          <img src="../../assets/images/espalda02.png" width="200px">
+          <img src="../../assets/images/bicep01.png" width="200px">
         </f7-block>
       </f7-tab>
     </f7-tabs>
